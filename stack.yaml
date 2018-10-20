@@ -1,3 +1,4 @@
 resolver: lts-12.13
 packages:
 - extensible-instances-http-api-data
+- extensible-instances-rio

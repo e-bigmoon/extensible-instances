@@ -1,0 +1,21 @@
+name:                extensible-instances-rio
+version:             0.1.0.0
+github:              "e-bigmoon/extensible-instances"
+license:             BSD3
+author:              "BIG MOON"
+maintainer:          "it@e-bigmoon.com"
+copyright:           "2018 BIG MOON"
+
+extra-source-files:
+- README.md
+- ChangeLog.md
+
+description:         Please see the README on GitHub at <https://github.com/e-bigmoon/extensible-instances#readme>
+
+dependencies:
+- base >= 4.7 && < 5
+- extensible
+- rio
+
+library:
+  source-dirs: src
